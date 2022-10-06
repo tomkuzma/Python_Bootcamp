@@ -1,9 +1,10 @@
 # PyBootcamp
-Udemy 100 days of code: Python Bootcamp Repository. I'm tracking my progress here and the day can just be selected from the main.py in the project. Prior to Day 15, the course was usint replit and Coding Rooms so version control was limited. 
+Udemy 100 days of code: Python Bootcamp Repository. I'm tracking my progress here and the day can just be selected from the main.py in the project. Prior to Day 15, the course was using replit and Coding Rooms so version control was limited. 
 
-# Table of contents
-1. [Day 15 - Coffee Machine Project](#day15)
-<!--2. [Day 16 ](#day16)
+# Project Descriptions 
+## Click to drop down
+<!--1. [Day 15 - Coffee Machine Project](#day15)
+2. [Day 16 ](#day16)
     1. [Sub paragraph](#subparagraph1)
 3. [Day 17](#day17) 
 4. [Day 18](#day18) 
@@ -11,7 +12,9 @@ Udemy 100 days of code: Python Bootcamp Repository. I'm tracking my progress her
 6. [Day 20](#day20) 
 7. [Day 21](#day21) -->
 
-## Day 15 - Coffee Machine Project <a name="day15"></a>
+<details>
+  <summary>Day 15 - Coffee Machine Project <a name="day15"></a></summary>
+
 1. Prompt user by asking “What would you like? (espresso/latte/cappuccino): ”
 - a. Check the user’s input to decide what to do next.
 - b. The prompt should show every time action has completed, e.g. once the drink is
@@ -67,3 +70,4 @@ Report after purchasing latte:
 - Money: $2.5
 - b. Once all resources have been deducted, tell the user “Here is your latte. Enjoy!”. If
 latte was their choice of drink
+</details>
