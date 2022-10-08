@@ -3,7 +3,7 @@ Udemy 100 days of code: Python Bootcamp Repository. I'm tracking my progress her
 
 # Project Descriptions 
 ## Click to drop down
-<!--1. [Day 15 - Coffee Machine Project](#day15)
+<!--1. [Day 15 - Coffee Machine Project](#day_15)
 2. [Day 16 ](#day16)
     1. [Sub paragraph](#subparagraph1)
 3. [Day 17](#day17) 

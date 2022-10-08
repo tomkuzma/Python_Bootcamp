@@ -1,4 +1,4 @@
-import day15 as cm
+from day_15 import day15 as cm
 
 day = int(input("Which day would you like to load? "))
 
